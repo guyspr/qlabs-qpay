@@ -2,7 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-	<TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
+    <RuntimeFrameworkVersion>2.1.1</RuntimeFrameworkVersion>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
     <UserSecretsId>02c7c6f7-d679-407b-a6be-7425921f4309</UserSecretsId>
   </PropertyGroup>
 
